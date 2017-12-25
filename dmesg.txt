@@ -1,0 +1,44 @@
+ntel_rapl: Found RAPL domain dram
+[   12.482779] intel_rapl: RAPL package 0 domain package locked by BIOS
+[   12.482793] intel_rapl: RAPL package 0 domain dram locked by BIOS
+[   12.728419] Adding 4104188k swap on /dev/sda3.  Priority:-1 extents:1 across:4104188k SSFS
+[   12.871099] audit: type=1400 audit(1513836981.537:2): apparmor="STATUS" operation="profile_load" name="/sbin/dhclient" pid=699 comm="apparmor_parser"
+[   12.871108] audit: type=1400 audit(1513836981.537:3): apparmor="STATUS" operation="profile_load" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=699 comm="apparmor_parser"
+[   12.871114] audit: type=1400 audit(1513836981.537:4): apparmor="STATUS" operation="profile_load" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=699 comm="apparmor_parser"
+[   12.871122] audit: type=1400 audit(1513836981.537:5): apparmor="STATUS" operation="profile_load" name="/usr/lib/connman/scripts/dhclient-script" pid=699 comm="apparmor_parser"
+[   12.871415] audit: type=1400 audit(1513836981.537:6): apparmor="STATUS" operation="profile_load" name="/usr/lib/lightdm/lightdm-guest-session" pid=698 comm="apparmor_parser"
+[   12.871422] audit: type=1400 audit(1513836981.537:7): apparmor="STATUS" operation="profile_load" name="/usr/lib/lightdm/lightdm-guest-session//chromium" pid=698 comm="apparmor_parser"
+[   12.874304] audit: type=1400 audit(1513836981.541:8): apparmor="STATUS" operation="profile_load" name="/usr/lib/snapd/snap-confine" pid=703 comm="apparmor_parser"
+[   12.874311] audit: type=1400 audit(1513836981.541:9): apparmor="STATUS" operation="profile_load" name="/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=703 comm="apparmor_parser"
+[   12.878443] audit: type=1400 audit(1513836981.545:10): apparmor="STATUS" operation="profile_load" name="webbrowser-app" pid=702 comm="apparmor_parser"
+[   12.886084] iwlwifi 0000:0d:00.0: Detected Intel(R) Dual Band Wireless AC 3165, REV=0x210
+[   12.888408] iwlwifi 0000:0d:00.0: L1 Enabled - LTR Enabled
+[   12.888858] iwlwifi 0000:0d:00.0: L1 Enabled - LTR Enabled
+[   12.977813] ieee80211 phy0: Selected rate control algorithm 'iwl-mvm-rs'
+[   12.979983] iwlwifi 0000:0d:00.0 wlp13s0: renamed from wlan0
+[   13.006552] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   13.006555] Bluetooth: BNEP filters: protocol multicast
+[   13.006560] Bluetooth: BNEP socket layer initialized
+[   13.207359] IPv6: ADDRCONF(NETDEV_UP): wlp13s0: link is not ready
+[   13.209706] iwlwifi 0000:0d:00.0: L1 Enabled - LTR Enabled
+[   13.210151] iwlwifi 0000:0d:00.0: L1 Enabled - LTR Enabled
+[   13.248926] input: HP WMI hotkeys as /devices/virtual/input/input14
+[   13.284664] iwlwifi 0000:0d:00.0: L1 Enabled - LTR Enabled
+[   13.285110] iwlwifi 0000:0d:00.0: L1 Enabled - LTR Enabled
+[   13.315870] IPv6: ADDRCONF(NETDEV_UP): wlp13s0: link is not ready
+[   13.321360] IPv6: ADDRCONF(NETDEV_UP): enp7s0: link is not ready
+[   13.503452] r8169 0000:07:00.0 enp7s0: link down
+[   13.503499] IPv6: ADDRCONF(NETDEV_UP): enp7s0: link is not ready
+[   13.583582] IPv6: ADDRCONF(NETDEV_UP): wlp13s0: link is not ready
+[   14.364918] Bluetooth: RFCOMM TTY layer initialized
+[   14.364925] Bluetooth: RFCOMM socket layer initialized
+[   14.364932] Bluetooth: RFCOMM ver 1.11
+[   15.560996] wlp13s0: authenticate with 00:18:e7:ff:ab:3d
+[   15.576539] wlp13s0: send auth to 00:18:e7:ff:ab:3d (try 1/3)
+[   15.578295] wlp13s0: authenticated
+[   16.582275] wlp13s0: associate with 00:18:e7:ff:ab:3d (try 1/3)
+[   16.586138] wlp13s0: RX AssocResp from 00:18:e7:ff:ab:3d (capab=0x431 status=0 aid=6)
+[   16.599388] wlp13s0: associated
+[   16.599450] IPv6: ADDRCONF(NETDEV_CHANGE): wlp13s0: link becomes ready
+[   55.232196] heo: Hello Kernel!!!
+[ 142.135456] heo: Hello Kernel!!!
